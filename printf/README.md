@@ -45,3 +45,5 @@ Then compile your file with the generated ``libftprintf.a`` by adding in the mai
 gcc main.c libftprintf.a
 ./a.out
 ```
+## Testing
+The function is tested with [Francinette](https://github.com/xicodomingues/francinette)

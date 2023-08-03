@@ -30,7 +30,7 @@ d/i: int            (integer)
 
 ## Installation
 ```
-git clone [https://github.com/Huynh-Vy/printf-getNextLine-born2beRoot]
+git clone https://github.com/Huynh-Vy/printf-getNextLine-born2beRoot
 cd printf
 make
 ```
